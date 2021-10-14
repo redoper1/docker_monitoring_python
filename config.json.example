@@ -1,0 +1,8 @@
+{
+  "containers": {
+    "container": {
+      "restarting": "printf 'Container \"%s\" is restarting\n' 'container'",
+      "stopped": "printf 'Container \"%s\" is stopped\n' 'container'"
+    }
+  }
+}
